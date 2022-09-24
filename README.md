@@ -1,1 +1,1 @@
-# Unity-C-Snippets
+These contain some usefull C# snippets for unity engine
